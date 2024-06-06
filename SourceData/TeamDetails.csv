@@ -1,0 +1,31 @@
+team_id;abbreviation;nickname;conference;division;city;arena;arenacapacity
+1610612737;ATL;Hawks;East ;Southeast;Atlanta;State Farm Arena;18729
+1610612741;CHI;Bulls;East ;Central;Chicago;United Center;21711
+1610612742;DAL;Mavericks;West ;Southwest ;Dallas;American Airlines Center;19200
+1610612743;DEN;Nuggets;West ;Northwest;Denver;Ball Arena;19099
+1610612744;GSW;Warriors;West ;Pacific;Golden State;Chase Center;18064
+1610612745;HOU;Rockets;West ;Southwest ;Houston;Toyota Center;18104
+1610612746;LAC;Clippers;West ;Pacific;Los Angeles;Crypto.com Arena;19060
+1610612747;LAL;Lakers;West ;Pacific;Los Angeles;Crypto.com Arena;19060
+1610612748;MIA;Heat;East ;Southeast;Miami;Kaseya Center;19600
+1610612749;MIL;Bucks;East ;Central;Milwaukee;Fiserv Forum;17500
+1610612750;MIN;Timberwolves;West ;Northwest;Minnesota;Target Center;19356
+1610612751;BKN;Nets;East ;Atlantic ;Brooklyn;Barclays Center;19000
+1610612754;IND;Pacers;East ;Central;Indiana;Gainbridge Fieldhouse ;18345
+1610612755;PHI;76ers;East ;Atlantic ;Philadelphia;Wells Fargo Center;21000
+1610612756;PHX;Suns;West ;Pacific;Phoenix;Footprint Center;18422
+1610612757;POR;Trail Blazers;West ;Northwest;Portland;Moda Center;19980
+1610612758;SAC;Kings;West ;Pacific;Sacramento;Golden 1 Center;17500
+1610612759;SAS;Spurs;West ;Southwest ;San Antonio;AT&T Center;18694
+1610612760;OKC;Thunder;West ;Northwest;Oklahoma City;Paycom Center;18203
+1610612761;TOR;Raptors;East ;Atlantic ;Toronto;Scotiabank Arena;19800
+1610612762;UTA;Jazz;West ;Northwest;Utah;Delta Center;20000
+1610612763;MEM;Grizzlies;West ;Southwest ;Memphis;FedExForum;18119
+1610612764;WAS;Wizards;East ;Southeast;Washington;Capital One Arena;20647
+1610612765;DET;Pistons;East ;Central;Detroit;Little Caesars Arena;20322
+1610612766;CHA;Hornets;East ;Southeast;Charlotte;Spectrum Center;19026
+1610612753;ORL;Magic;East ;Southeast;Orlando;Kia Center;18846
+1610612740;NOP;Pelicans;West ;Southwest ;New Orlean;Smoothie King Center;17791
+1610612739;CLE;Cavaliers;East ;Central;Cleveland;Rocket Mortage Field House;19432
+1610612738;BOS;Celtics;East ;Atlantic ;Boston;TD Garden;19580
+1610612752;NYK;Knicks;East ;Atlantic ;New York;Madison Square Garden;19500
